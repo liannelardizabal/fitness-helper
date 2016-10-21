@@ -1,1 +1,2 @@
-# fitness-helper
+Fitness Helper is a Kinect application that helps the user with exercise techniques by keeping track of completed movements. 
+This project was created at the IEEE Microsoft Kinect & Structure Sensor Hackathon.

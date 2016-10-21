@@ -1,0 +1,57 @@
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\Seated.gbd
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\App.g.cs
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\Seated.gbd
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\obj\x86\Debug\App.g.cs
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+C:\Users\Demo\Documents\emmett_hackathon_workspace\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\bin\x86\Debug\Database\Seated.gbd
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\obj\x86\Debug\App.g.cs
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\obj\x86\Debug\MainWindow.baml
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+C:\Users\Arjan\Documents\Visual Studio 2013\Projects\SquatCounter_Hackathon_Project\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.Cache
